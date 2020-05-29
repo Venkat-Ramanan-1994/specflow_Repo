@@ -1,0 +1,10 @@
+﻿2020-04-10T10:27:33.8520318+05:30;Thread#1;Info;Reading test run result from Json file "C:\Users\UTIS LAPTOP 52\AppData\Local\Temp\tmpCC9D.tmp".
+2020-04-10T10:27:33.8625918+05:30;Thread#1;Info;Successfully read test run result from Json file "C:\Users\UTIS LAPTOP 52\AppData\Local\Temp\tmpCC9D.tmp"
+2020-04-10T10:27:33.8625918+05:30;Thread#1;Info;Deserializing test run result
+2020-04-10T10:27:34.4326102+05:30;Thread#1;Info;Successfully deserialized test run result
+2020-04-10T10:27:34.4326102+05:30;Thread#1;Info;Loading test run result
+2020-04-10T10:27:34.4606538+05:30;Thread#1;Info;Successfully loaded test run result
+2020-04-10T10:27:34.4736858+05:30;Thread#1;Info;creating 1 report(s)
+2020-04-10T10:27:34.4747218+05:30;Thread#1;Info;generate Report ReportTemplate.cshtml
+2020-04-10T10:27:35.7211225+05:30;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

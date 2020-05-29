@@ -1,0 +1,95 @@
+﻿2020-04-09T21:03:27.7362133+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-09T21:03:27.7362133+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.15 in Framework clr40 in x86 mode execution started
+2020-04-09T21:03:27.7362133+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-09T21:03:27.9256847+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:03:27.9266856+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults" (default)
+2020-04-09T21:03:27.9271870+05:30;VSTestExecutionThread;Info;Profile: MonoPriceWebBDD
+2020-04-09T21:03:27.9748158+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-09T210327.log
+2020-04-09T21:03:27.9818314+05:30;Thread#13;Info;Checking activation
+2020-04-09T21:03:28.0770882+05:30;Thread#13;Info;Activation check completed
+2020-04-09T21:03:28.0780918+05:30;Thread#13;Info;Starting test run
+2020-04-09T21:03:28.0881176+05:30;Thread#13;Info;Discovering target: Default
+2020-04-09T21:03:28.0881176+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:03:28.4395001+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:03:28.4415387+05:30:Test Suite Dump
+2020-04-09T21:03:28.4440436+05:30:#0: MonoPriceWebBDD/MonoPriceWebBDD - 
+2020-04-09T21:03:28.4440436+05:30:#1: Default - 
+2020-04-09T21:03:28.4440436+05:30:#2: MonoPriceWebBDD - 
+2020-04-09T21:03:28.4440436+05:30:#3: Login: Login Functionality Feature - 
+2020-04-09T21:03:28.4851196+05:30:#4: Successful Login with Valid Credentials, Online Portal - TestAssembly:MonoPriceWebBDD/Feature:Login%3a+Login+Functionality+Feature/Scenario:Successful+Login+with+Valid+Credentials%2c+Online+Portal
+2020-04-09T21:03:28.4856214+05:30:End: Test Suite Dump
+2020-04-09T21:03:28.5187085+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-04-09T21:03:28.5217165+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-09T21:03:28.5217165+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-09T21:03:28.5287360+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-09T21:03:28.5287360+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-09T21:03:28.5287360+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-04-09T21:03:28.5287360+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-09T21:03:28.5307405+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-09T21:03:28.5327463+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-09T21:03:28.5367565+05:30:Thread #0: creating new test thread executor for MonoPriceWebBDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-09T21:03:28.6465493+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-09T21:03:28.6515622+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-09T21:03:28.6540689+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-09T21:03:28.7738875+05:30:Thread#0: Test #4/0 is started on thread #0
+2020-04-09T21:03:29.0295669+05:30:Thread#0:T:-> Using app.config
+2020-04-09T21:03:29.2601802+05:30:Thread#0:T:[Begin Feature] - Login: Login Functionality Feature
+2020-04-09T21:03:29.2601802+05:30:Thread#0:T:Testing Environment: qa1
+2020-04-09T21:03:29.2601802+05:30:Thread#0:T:Browser: firefox
+2020-04-09T21:03:29.3885557+05:30:Thread#0:T:[BeforeScenario] - Start firefox
+2020-04-09T21:03:29.4411956+05:30:Thread#0:T:Scenario: Successful Login with Valid Credentials
+2020-04-09T21:03:35.9698527+05:30:Thread#0:T:Browser Name: firefox
+2020-04-09T21:03:35.9708523+05:30:Thread#0:T:Browser Version: 73.0.1
+2020-04-09T21:03:35.9789061+05:30:Thread#0:B:Given I open the "Monoprice Web" website's login page
+2020-04-09T21:03:51.2550690+05:30:Thread#0:T:Browser navigating to https://qa1.monoprice.com
+2020-04-09T21:03:51.2630882+05:30:Thread#0:T:done: CommonSteps.GivenIOpenTheWebsite("Monoprice Web") (15.2s)
+2020-04-09T21:03:51.2671002+05:30:Thread#0:B:Then I Navigate to MyAccount Login Page
+2020-04-09T21:04:01.5712587+05:30:Thread#0:T:Navigated to Login Page Successfully
+2020-04-09T21:04:01.5722614+05:30:Thread#0:T:done: LoginPageSteps.ThenINavigateToMyAccountPage() (10.3s)
+2020-04-09T21:04:01.5747680+05:30:Thread#0:B:When I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09T21:07:04.3630366+05:30:Thread#0:T:error: Tried to run command without establishing a connection
+2020-04-09T21:07:04.3645441+05:30:Thread#0:B:Then I should be logged in
+2020-04-09T21:07:04.3655126+05:30:Thread#0:T:skipped because of previous errors
+2020-04-09T21:07:04.3805517+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-04-09T21:07:04.3805517+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-09T21:07:04.3805517+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-09T21:07:04.3805517+05:30:Thread#0:Scheduler: No more tests for thread
+2020-04-09T21:07:04.3845650+05:30:Thread#0:T:[AfterScenario] - Quit browser
+2020-04-09T21:07:04.3860685+05:30:Thread#0:T:error: Tried to run command without establishing a connection
+2020-04-09T21:07:04.3905783+05:30:Thread#0:T:Screenshot error: OpenQA.Selenium.WebDriverException: Tried to run command without establishing a connection
+2020-04-09T21:07:04.3915810+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+2020-04-09T21:07:04.3925837+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2020-04-09T21:07:04.3930850+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+2020-04-09T21:07:04.3935890+05:30:Thread#0:T:   at MonoPriceWebBDD.pageFactory.BaseClass.TakeScreenshot(IWebDriver driver, Boolean wholePage) in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\pageFactory\BaseClass.cs:line 130
+2020-04-09T21:07:04.3945912+05:30:Thread#0:T:   at MonoPriceWebBDD.stepDefinitions.Hooks.Hooks.AfterScenario() in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\stepDefinitions\util\Hooks.cs:line 151
+2020-04-09T21:07:04.4945201+05:30:Thread#0:T:Screenshot: file:///C:/Users/UTIS LAPTOP 52/source/repos/MonoPriceWebBDD/MonoPriceWebBDD/bin/Debug/logs/2020-04-09-0907-04.png
+2020-04-09T21:07:04.5005352+05:30:Thread#0:T:WebDriverException: The HTTP request to the remote WebDriver server for URL timed out after defaultTimeSeconds
+2020-04-09T21:07:04.5015374+05:30:Thread#0:T:OpenQA.Selenium.WebDriverException: Tried to run command without establishing a connection
+2020-04-09T21:07:04.5020387+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+2020-04-09T21:07:04.5030414+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2020-04-09T21:07:04.5065507+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteTimeouts.ExecuteSetTimeout(String timeoutType, TimeSpan timeToWait)
+2020-04-09T21:07:04.5080547+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteTimeouts.set_PageLoad(TimeSpan value)
+2020-04-09T21:07:04.5090574+05:30:Thread#0:T:   at MonoPriceWebBDD.stepDefinitions.Hooks.Hooks.closeDriver() in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\stepDefinitions\util\Hooks.cs:line 273
+2020-04-09T21:07:06.6528853+05:30:Thread#0:T:[End Feature] - Login: Login Functionality Feature
+2020-04-09T21:07:06.6699311+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 217.8950414 seconds
+2020-04-09T21:07:06.7230724+05:30:Trying to cancel thread
+2020-04-09T21:07:06.7230724+05:30:Thread cancelled
+2020-04-09T21:07:06.7330982+05:30:Thread#-1:Scheduler: get next test for thread -1
+2020-04-09T21:07:06.7330982+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-09T21:07:06.7330982+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-09T21:07:06.7351039+05:30;Thread#13;Info;test run finished
+2020-04-09T21:07:06.7361066+05:30;Thread#13;Info;publishing test results
+2020-04-09T21:07:06.7991577+05:30;Thread#13;Info;test results published
+2020-04-09T21:07:06.7991577+05:30;Thread#13;Info;generating reports
+2020-04-09T21:07:06.9455487+05:30;Thread#13;Info;Starting external report generation process
+2020-04-09T21:07:08.8162799+05:30;Thread#13;Info;Successfully generated reports.
+2020-04-09T21:07:08.8182861+05:30;Thread#13;Info;Successfully generated reports
+2020-04-09T21:07:08.8303168+05:30:Total: 1
+2020-04-09T21:07:08.8333266+05:30:Succeeded: 0
+2020-04-09T21:07:08.8333266+05:30:Ignored: 0
+2020-04-09T21:07:08.8343288+05:30:Pending: 0
+2020-04-09T21:07:08.8343288+05:30:Skipped: 0
+2020-04-09T21:07:08.8343288+05:30:Failed: 1
+2020-04-09T21:07:08.8483643+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-09T21:07:08.8483643+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-09T210327.html'
+========== End of log file ==========

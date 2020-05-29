@@ -1,0 +1,533 @@
+2020-04-09 11:00:09,608 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:00:13,250 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:00:13,252 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:00:13,284 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:00:15,608 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:00:15,610 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:00:15,633 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:00:17,902 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:00:17,905 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:10:23,933 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:10:26,217 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:10:26,218 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:10:26,242 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:10:28,484 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:10:28,485 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:10:28,500 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:10:30,741 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:10:30,745 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:19:02,633 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:19:04,962 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:19:04,963 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:19:09,360 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:19:11,660 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:19:11,663 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:19:15,916 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:19:18,114 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:19:18,116 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:23:53,679 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:23:56,034 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:23:56,035 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:24:00,396 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:24:02,648 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:24:02,650 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:24:06,905 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:24:09,288 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:24:09,292 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Interface cannot be resolved: OpenQA.Selenium.IWebDriver (resolution path: MonoPriceWebBDD.stepDefinitions.util.CommonSteps)
+2020-04-09 11:30:26,885 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:30:29,362 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:30:29,367 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Unknown application: web
+2020-04-09 11:30:33,785 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:30:36,132 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:30:36,135 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Unknown application: web
+2020-04-09 11:30:40,394 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:30:42,681 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:30:42,683 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Unknown application: web
+2020-04-09 11:33:11,285 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 11:33:13,657 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://qa1.monoprice.com
+2020-04-09 11:33:47,744 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:00:39,821 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:00:42,646 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://qa1.monoprice.com
+2020-04-09 14:01:13,273 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:35:13,953 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:35:16,422 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://qa1.monoprice.com
+2020-04-09 14:39:29,350 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:39:31,872 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 14:40:28,049 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:40:28,052 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error:   Expected: True
+  But was:  False
+
+2020-04-09 14:40:32,573 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:40:34,910 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 14:41:29,975 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:41:29,977 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Multiple failures or warnings in test:
+  1)   Expected: True
+  But was:  False
+
+  2)   Expected: True
+  But was:  False
+
+
+2020-04-09 14:41:34,465 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:41:36,799 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 14:42:32,424 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:42:32,430 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - error: Multiple failures or warnings in test:
+  1)   Expected: True
+  But was:  False
+
+  2)   Expected: True
+  But was:  False
+
+  3)   Expected: True
+  But was:  False
+
+
+2020-04-09 14:43:51,379 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:43:53,657 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 14:44:26,927 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:55:21,265 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:55:23,581 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 14:56:04,224 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 14:57:53,611 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: UnSuccessful Login with InValid Credentials **
+2020-04-09 14:57:56,008 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 14:58:34,881 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** End Scenario: UnSuccessful Login with InValid Credentials **
+2020-04-09 17:34:00,406 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 87 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:34:04,643 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:34:04,690 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 122 [(null)] - Step Execution Time : 00:00:00.0443848
+2020-04-09 17:34:04,716 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 130 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:34:04,718 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 138 [(null)] - error: The given key was not present in the dictionary.
+2020-04-09 17:34:09,113 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 87 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:34:11,481 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:34:11,488 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 122 [(null)] - Step Execution Time : 00:00:00.0044942
+2020-04-09 17:34:11,514 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 130 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:34:11,518 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 138 [(null)] - error: The given key was not present in the dictionary.
+2020-04-09 17:34:15,821 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 87 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:34:18,073 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 113 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:34:18,076 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 122 [(null)] - Step Execution Time : 00:00:00.0016266
+2020-04-09 17:34:18,084 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 130 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:34:18,086 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 138 [(null)] - error: The given key was not present in the dictionary.
+2020-04-09 17:34:22,317 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 181 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 17:39:18,113 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:39:20,440 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:39:20,445 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 17:39:43,512 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:23.0697724
+2020-04-09 17:39:43,515 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 17:40:43,637 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:01:00.1209208
+2020-04-09 17:40:43,695 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:40:43,699 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 153 [(null)] - error: The HTTP request to the remote WebDriver server for URL http://localhost:52993/session/45957a5facafa8e1e21847d9cb3e19d1/url timed out after 60 seconds.
+2020-04-09 17:41:03,711 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:41:06,019 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:41:06,021 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 17:41:22,370 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:16.3493238
+2020-04-09 17:41:22,373 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 17:41:31,792 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:09.4188287
+2020-04-09 17:41:31,796 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 17:41:39,683 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:07.8828818
+2020-04-09 17:41:39,687 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Then: I should be logged in
+2020-04-09 17:41:39,908 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:00.2193772
+2020-04-09 17:41:39,912 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:41:44,318 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:41:46,555 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:41:46,556 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 17:42:02,491 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:15.9349333
+2020-04-09 17:42:02,496 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 17:42:12,011 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:09.5129913
+2020-04-09 17:42:12,013 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 17:42:18,581 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:06.5660050
+2020-04-09 17:42:18,586 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Then: I should be logged in
+2020-04-09 17:42:18,816 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:00.2295852
+2020-04-09 17:42:18,821 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:42:23,347 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 196 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 17:42:48,956 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:42:51,301 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:42:51,306 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 17:43:07,048 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:15.7444578
+2020-04-09 17:43:07,053 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 17:43:16,254 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:09.2006847
+2020-04-09 17:43:16,260 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 17:43:22,913 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:06.6516508
+2020-04-09 17:43:22,916 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** Then: I should be logged in
+2020-04-09 17:43:23,096 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - Step Execution Time : 00:00:00.1789661
+2020-04-09 17:43:23,114 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:43:27,648 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 196 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 17:44:47,892 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 87 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:44:50,248 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:44:50,255 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 17:45:10,769 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:20.5178726
+2020-04-09 17:45:10,775 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 17:45:21,599 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:10.8112663
+2020-04-09 17:45:21,604 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 17:45:29,468 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:07.8624653
+2020-04-09 17:45:29,473 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I should be logged in
+2020-04-09 17:45:29,743 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.2684852
+2020-04-09 17:45:29,785 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 132 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:45:34,291 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 17:55:17,690 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 83 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:55:20,086 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 111 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 17:55:20,094 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 17:55:39,949 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - Step Execution Time : 00:00:19.8589138
+2020-04-09 17:55:39,956 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 111 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 17:55:50,685 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - Step Execution Time : 00:00:10.7277983
+2020-04-09 17:55:50,691 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 111 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 17:55:58,328 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - Step Execution Time : 00:00:07.6362566
+2020-04-09 17:55:58,332 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 111 [(null)] - ***** Then: I should be logged in
+2020-04-09 17:55:58,582 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - Step Execution Time : 00:00:00.2492070
+2020-04-09 17:55:58,596 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 128 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 17:56:03,075 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 179 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 18:00:22,667 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:00:38,462 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:00:38,468 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:01:00,451 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:21.9859893
+2020-04-09 18:01:00,491 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:01:00,493 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - error: Reached error page: about:neterror?e=netTimeout&u=https%3A//stg2.monoprice.com/&c=UTF-8&f=regular&d=The%20server%20at%20stg2.monoprice.com%20is%20taking%20too%20long%20to%20respond.
+2020-04-09 18:01:00,519 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:01:05,922 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:01:05,923 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:01:20,341 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:14.4184109
+2020-04-09 18:01:20,344 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:03:17,696 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:03:23,981 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:03:23,987 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:03:41,811 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:17.8265347
+2020-04-09 18:03:41,814 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:03:53,688 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:11.8741827
+2020-04-09 18:03:53,691 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 18:04:02,372 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:08.6812894
+2020-04-09 18:04:02,376 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Then: I should be logged in
+2020-04-09 18:04:02,500 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:00.1234532
+2020-04-09 18:04:02,515 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:04:02,521 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 180 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 18:06:25,219 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:06:32,678 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:06:32,685 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:06:47,948 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:15.2665598
+2020-04-09 18:06:47,952 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:06:59,839 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:11.8868609
+2020-04-09 18:06:59,843 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 18:07:07,151 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:07.3074727
+2020-04-09 18:07:07,154 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Then: I should be logged in
+2020-04-09 18:07:07,283 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:00.1265981
+2020-04-09 18:07:07,298 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:07:14,566 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 193 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 18:11:14,312 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:11:20,375 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:11:20,381 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:11:36,105 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:15.7283636
+2020-04-09 18:11:36,120 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:11:48,073 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:11.9515497
+2020-04-09 18:11:48,076 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 18:12:01,138 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:13.0617768
+2020-04-09 18:12:01,142 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** Then: I should be logged in
+2020-04-09 18:12:01,270 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 121 [(null)] - Step Execution Time : 00:00:00.1257750
+2020-04-09 18:12:01,287 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:12:08,296 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 193 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 18:16:52,239 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:17:20,240 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:17:20,246 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:17:20,437 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.1939279
+2020-04-09 18:17:20,440 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:17:20,486 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.0456928
+2020-04-09 18:17:20,513 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 132 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:17:20,515 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 140 [(null)] - error: Failed to navigate to https://stg2.monoprice.com/myaccount/myaccount. This usually means that a call to the COM method IWebBrowser2::Navigate2() failed.
+2020-04-09 18:17:24,938 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:17:31,937 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:17:31,938 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:17:32,036 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.0989990
+2020-04-09 18:17:32,038 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:17:32,057 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.0182662
+2020-04-09 18:17:32,065 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 132 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:17:32,068 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 140 [(null)] - error: Failed to navigate to https://stg2.monoprice.com/myaccount/myaccount. This usually means that a call to the COM method IWebBrowser2::Navigate2() failed.
+2020-04-09 18:17:36,354 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:17:44,906 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:17:44,907 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:17:44,999 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.0923252
+2020-04-09 18:17:45,003 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:17:45,021 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.0169799
+2020-04-09 18:17:45,028 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 132 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:17:45,031 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 140 [(null)] - error: Failed to navigate to https://stg2.monoprice.com/myaccount/myaccount. This usually means that a call to the COM method IWebBrowser2::Navigate2() failed.
+2020-04-09 18:17:49,296 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 201 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 18:26:55,137 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:26:57,532 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 18:26:57,541 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 18:27:21,111 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:23.5748953
+2020-04-09 18:27:21,124 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 18:27:30,851 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:09.7266854
+2020-04-09 18:27:30,854 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 18:27:39,099 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:08.2441092
+2020-04-09 18:27:39,101 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I should be logged in
+2020-04-09 18:27:39,308 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.2065012
+2020-04-09 18:27:39,332 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 132 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 18:27:43,965 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 201 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 19:26:34,616 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:26:36,946 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 19:26:36,953 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 19:27:11,212 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:34.2620807
+2020-04-09 19:27:11,221 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 19:27:32,305 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:21.0821146
+2020-04-09 19:27:32,309 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 19:27:54,156 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:21.8460760
+2020-04-09 19:27:54,162 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I should be logged in
+2020-04-09 19:27:54,322 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.1594194
+2020-04-09 19:27:54,338 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 132 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:27:58,788 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 201 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 19:28:45,065 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 84 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:28:47,299 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 19:28:47,303 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 19:29:20,856 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:33.5551526
+2020-04-09 19:29:20,870 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 19:29:41,932 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:21.0607359
+2020-04-09 19:29:41,935 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 19:30:04,021 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:22.0856884
+2020-04-09 19:30:04,024 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 115 [(null)] - ***** Then: I should be logged in
+2020-04-09 19:30:04,181 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 124 [(null)] - Step Execution Time : 00:00:00.1557754
+2020-04-09 19:30:04,197 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 132 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:30:08,644 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 201 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 19:33:00,610 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:33:02,934 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 19:33:02,939 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 19:33:32,397 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:29.4605331
+2020-04-09 19:33:32,423 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 19:33:53,484 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:21.0570035
+2020-04-09 19:33:53,487 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 19:34:15,273 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:21.7841765
+2020-04-09 19:34:15,275 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** Then: I should be logged in
+2020-04-09 19:34:15,440 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:00.1648754
+2020-04-09 19:34:15,456 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 134 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:34:19,879 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 203 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 19:34:43,666 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 86 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:34:45,920 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 19:34:45,925 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 19:35:15,430 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:29.5073668
+2020-04-09 19:35:15,441 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 19:35:36,496 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:21.0545159
+2020-04-09 19:35:36,499 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 19:35:58,368 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:21.8687569
+2020-04-09 19:35:58,371 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 117 [(null)] - ***** Then: I should be logged in
+2020-04-09 19:35:58,535 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 126 [(null)] - Step Execution Time : 00:00:00.1624630
+2020-04-09 19:35:58,552 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 134 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:36:03,012 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 203 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 19:55:50,423 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:55:52,687 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 19:55:52,692 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 19:56:28,409 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:35.7191019
+2020-04-09 19:56:28,412 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 19:56:49,480 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:21.0679519
+2020-04-09 19:56:49,483 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakgumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 19:57:11,313 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:21.8287605
+2020-04-09 19:57:11,316 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 19:57:16,673 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.3569936
+2020-04-09 19:57:16,693 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:57:16,695 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error:   Expected: True
+  But was:  False
+
+2020-04-09 19:57:22,468 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:57:24,704 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 19:57:24,705 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 19:57:58,749 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:34.0442555
+2020-04-09 19:57:58,752 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 19:58:19,799 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:21.0460835
+2020-04-09 19:58:19,802 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakgumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 19:58:41,622 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:21.8190520
+2020-04-09 19:58:41,626 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 19:58:46,820 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.1932816
+2020-04-09 19:58:46,826 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:58:46,829 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: Multiple failures or warnings in test:
+  1)   Expected: True
+  But was:  False
+
+  2)   Expected: True
+  But was:  False
+
+
+2020-04-09 19:58:52,422 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:58:54,597 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 19:58:54,598 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 19:59:54,607 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:01:00.0083875
+2020-04-09 19:59:54,632 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 19:59:54,635 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: The HTTP request to the remote WebDriver server for URL http://localhost:60005/session/2db1ad79dca330600102f69f4a68aef8/url timed out after 60 seconds.
+2020-04-09 20:03:28,100 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 205 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 20:10:57,323 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:11:00,555 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 20:11:00,561 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 20:11:22,100 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:21.5428837
+2020-04-09 20:11:22,103 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 20:11:32,407 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:10.3035745
+2020-04-09 20:11:32,409 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 20:11:38,140 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.7295258
+2020-04-09 20:11:38,142 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 20:12:08,261 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:28.8252334
+2020-04-09 20:12:17,610 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:13:06,795 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error:   Expected: True
+  But was:  False
+
+2020-04-09 20:15:09,943 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:15:12,269 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 20:15:12,270 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 20:15:26,695 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:14.4248629
+2020-04-09 20:15:26,697 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 20:15:35,159 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:07.7729925
+2020-04-09 20:15:51,695 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:16:31,836 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.108)
+2020-04-09 20:17:35,514 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:17:37,693 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 20:17:37,694 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 20:17:44,961 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:07.2671509
+2020-04-09 20:17:44,963 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 20:17:47,291 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:02.3259349
+2020-04-09 20:17:49,529 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:17:49,532 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.108)
+2020-04-09 20:17:59,875 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 205 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 20:54:07,807 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:54:10,654 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 20:54:10,658 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 20:54:32,756 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:22.1001528
+2020-04-09 20:54:32,759 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 20:54:42,490 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:09.7304370
+2020-04-09 20:54:42,492 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 20:54:49,737 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:07.2437305
+2020-04-09 20:54:49,739 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 20:54:54,993 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.2538554
+2020-04-09 20:54:55,016 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:54:55,019 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error:   Expected: True
+  But was:  False
+
+2020-04-09 20:55:00,642 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:55:02,864 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 20:55:02,864 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 20:55:18,705 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:15.8401667
+2020-04-09 20:55:18,707 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 20:55:27,882 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:09.1749394
+2020-04-09 20:55:27,886 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 20:55:33,129 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.2411185
+2020-04-09 20:55:33,133 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 20:55:38,278 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.1439572
+2020-04-09 20:55:38,282 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:55:38,284 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: Multiple failures or warnings in test:
+  1)   Expected: True
+  But was:  False
+
+  2)   Expected: True
+  But was:  False
+
+
+2020-04-09 20:55:44,143 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:55:46,310 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 20:55:46,311 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 20:56:04,637 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:18.3256905
+2020-04-09 20:56:04,639 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 20:56:14,714 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:10.0736750
+2020-04-09 20:56:14,716 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 20:56:20,995 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:06.2789892
+2020-04-09 20:56:20,998 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 20:56:26,122 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.1229052
+2020-04-09 20:56:26,125 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:56:26,127 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: Multiple failures or warnings in test:
+  1)   Expected: True
+  But was:  False
+
+  2)   Expected: True
+  But was:  False
+
+  3)   Expected: True
+  But was:  False
+
+
+2020-04-09 20:56:31,725 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 20:57:53,664 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:57:56,025 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 20:57:56,030 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 20:58:12,718 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:16.6906561
+2020-04-09 20:58:12,721 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 20:58:31,518 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:18.7960076
+2020-04-09 20:58:31,520 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 20:58:38,669 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:07.1490474
+2020-04-09 20:58:38,671 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 20:58:43,899 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.2253114
+2020-04-09 20:58:43,916 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 20:58:43,919 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error:   Expected: True
+  But was:  False
+
+2020-04-09 20:58:49,519 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 21:02:54,831 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:02:57,142 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 21:02:57,154 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://qa1.monoprice.com
+2020-04-09 21:03:10,792 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:13.6414201
+2020-04-09 21:03:10,799 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 21:03:10,861 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:00.0608608
+2020-04-09 21:03:10,895 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:03:10,898 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=78.0.3904.108)
+2020-04-09 21:03:15,541 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 21:03:29,389 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:03:36,023 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 21:03:36,030 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://qa1.monoprice.com
+2020-04-09 21:03:51,264 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:15.2376652
+2020-04-09 21:03:51,268 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 21:04:01,572 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:10.3029589
+2020-04-09 21:04:01,575 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 21:07:04,363 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:03:02.7873005
+2020-04-09 21:07:04,383 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:07:04,385 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: Tried to run command without establishing a connection
+2020-04-09 21:07:06,650 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 21:09:49,460 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:09:52,119 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 21:09:52,132 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 21:10:39,855 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:47.7254178
+2020-04-09 21:10:39,857 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 21:10:55,377 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:15.5189837
+2020-04-09 21:10:55,380 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 21:11:06,161 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:10.7803596
+2020-04-09 21:11:06,163 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 21:11:11,374 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.2095665
+2020-04-09 21:11:11,392 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:11:11,394 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error:   Expected: True
+  But was:  False
+
+2020-04-09 21:11:17,092 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 21:14:01,769 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:14:04,070 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 21:14:04,075 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 21:15:04,097 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:01:00.0240719
+2020-04-09 21:15:04,122 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:15:04,133 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 145 [(null)] - error: The HTTP request to the remote WebDriver server for URL http://localhost:63145/session/c1b9fbb52e7abe3efd52c676d59ad713/url timed out after 60 seconds.
+2020-04-09 21:16:43,197 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: UnSuccessful Login with InValid Credentials **
+2020-04-09 21:16:51,206 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:16:53,513 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 21:16:53,518 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 21:17:14,375 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:20.8596698
+2020-04-09 21:17:14,377 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 21:17:25,538 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:11.1601608
+2020-04-09 21:17:25,542 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09 21:17:32,819 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:07.2763536
+2020-04-09 21:17:32,822 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should be logged in
+2020-04-09 21:17:32,986 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:00.1626519
+2020-04-09 21:17:33,002 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-04-09 21:17:37,542 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: UnSuccessful Login with InValid Credentials **
+2020-04-09 21:17:39,736 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 21:17:39,737 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 21:18:06,330 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:26.5925819
+2020-04-09 21:18:06,332 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 21:18:19,643 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:13.3100247
+2020-04-09 21:18:19,647 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakumat@unitedtechno.com" and Password "Welcome" on the login page
+2020-04-09 21:18:25,327 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:05.6797685
+2020-04-09 21:18:25,330 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should not be logged in
+2020-04-09 21:18:25,489 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:00.1589843
+2020-04-09 21:18:25,493 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: UnSuccessful Login with InValid Credentials **
+2020-04-09 21:18:29,899 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****
+2020-04-09 21:19:39,726 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: UnSuccessful Login with InValid Credentials **
+2020-04-09 21:19:42,017 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Given: I open the "Monoprice Web" website's login page
+2020-04-09 21:19:42,022 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.util.CommonSteps line: 62 [(null)] - Browser navigating to https://stg2.monoprice.com
+2020-04-09 21:20:01,465 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:19.4461224
+2020-04-09 21:20:01,467 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I Navigate to MyAccount Login Page
+2020-04-09 21:20:13,621 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:12.1534537
+2020-04-09 21:20:13,624 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** When: I log in using Username as "jayakumat@unitedtechno.com" and Password "Welcome" on the login page
+2020-04-09 21:20:19,673 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:06.0485382
+2020-04-09 21:20:19,676 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 120 [(null)] - ***** Then: I should not be logged in
+2020-04-09 21:20:19,872 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 129 [(null)] - Step Execution Time : 00:00:00.1947603
+2020-04-09 21:20:19,887 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: UnSuccessful Login with InValid Credentials **
+2020-04-09 21:20:24,400 [Test Thread #1] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****

@@ -1,0 +1,7 @@
+2020-05-29 10:46:54,365 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-05-29 10:47:12,270 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-05-29 10:47:12,340 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-05-29 10:47:13,796 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-05-29 10:47:13,817 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 89 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-05-29 10:47:15,417 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 137 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **
+2020-05-29 10:47:15,426 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 183 [(null)] - ***** End Feature: Login: Login Functionality Feature *****

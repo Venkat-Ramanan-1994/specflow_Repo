@@ -1,0 +1,2 @@
+2020-04-08 20:15:05,525 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 85 [(null)] - ***** Begin Scenario: Successful Login with Valid Credentials **
+2020-04-08 20:15:07,944 [Test Thread #0] DEBUG MonoPriceWebBDD.stepDefinitions.Hooks.Hooks line: 112 [(null)] - ***** End Scenario: Successful Login with Valid Credentials **

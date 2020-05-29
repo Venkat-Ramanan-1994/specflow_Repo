@@ -1,0 +1,160 @@
+﻿2020-04-09T21:19:38.0731078+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-09T21:19:38.0731078+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.15 in Framework clr40 in x86 mode execution started
+2020-04-09T21:19:38.0731078+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-09T21:19:38.2861793+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:19:38.2871824+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults" (default)
+2020-04-09T21:19:38.2881846+05:30;VSTestExecutionThread;Info;Profile: MonoPriceWebBDD
+2020-04-09T21:19:38.3434330+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-09T211938.log
+2020-04-09T21:19:38.3494486+05:30;Thread#13;Info;Checking activation
+2020-04-09T21:19:38.4371819+05:30;Thread#13;Info;Activation check completed
+2020-04-09T21:19:38.4376832+05:30;Thread#13;Info;Starting test run
+2020-04-09T21:19:38.4472085+05:30;Thread#13;Info;Discovering target: Default
+2020-04-09T21:19:38.4477094+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:19:38.7841044+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:19:38.7856084+05:30:Test Suite Dump
+2020-04-09T21:19:38.7881150+05:30:#0: MonoPriceWebBDD/MonoPriceWebBDD - 
+2020-04-09T21:19:38.7881150+05:30:#1: Default - 
+2020-04-09T21:19:38.7881150+05:30:#2: MonoPriceWebBDD - 
+2020-04-09T21:19:38.7881150+05:30:#3: Login: Login Functionality Feature - 
+2020-04-09T21:19:38.8222061+05:30:#4: Successful Login with Valid Credentials, Online Portal - TestAssembly:MonoPriceWebBDD/Feature:Login%3a+Login+Functionality+Feature/Scenario:Successful+Login+with+Valid+Credentials%2c+Online+Portal
+2020-04-09T21:19:38.8222061+05:30:#5: UnSuccessful Login with InValid Credentials, Invalid Username - TestAssembly:MonoPriceWebBDD/Feature:Login%3a+Login+Functionality+Feature/Scenario:UnSuccessful+Login+with+InValid+Credentials%2c+Invalid+Username
+2020-04-09T21:19:38.8222061+05:30:End: Test Suite Dump
+2020-04-09T21:19:38.8572990+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-04-09T21:19:38.8618110+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-09T21:19:38.8618110+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-09T21:19:38.8703341+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-09T21:19:38.8703341+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-09T21:19:38.8703341+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:True
+2020-04-09T21:19:38.8703341+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-09T21:19:38.8718381+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-09T21:19:38.8738457+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-09T21:19:38.8738457+05:30:Thread#1:Scheduler: get next test for thread 1
+2020-04-09T21:19:38.8738457+05:30:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-04-09T21:19:38.8738457+05:30:Thread#1:Scheduler: considering testitem #5 for thread 1
+2020-04-09T21:19:38.8738457+05:30:Thread#1:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-09T21:19:38.8738457+05:30:Thread#1:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-04-09T21:19:38.8738457+05:30:Thread#1:TestItem#5:runsOnOneOtherThreadUnspecific:True
+2020-04-09T21:19:38.8738457+05:30:Thread#1:Scheduler: using testitem #5 for thread 1
+2020-04-09T21:19:38.8738457+05:30:Thread#1:Scheduler: Test #5 is scheduled for thread
+2020-04-09T21:19:38.8738457+05:30:Thread#1:Scheduler: with testItemExecutionIndex 0
+2020-04-09T21:19:38.8783545+05:30:Thread #0: creating new test thread executor for MonoPriceWebBDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-09T21:19:38.8788559+05:30:Thread #1: creating new test thread executor for MonoPriceWebBDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-09T21:19:38.9154545+05:30:error in config transfrom (configFile: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config)
+<?xml version="1.0" encoding="utf-8"?>
+							<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+                <appSettings> 
+                     <add key="defaultBrowser" value="chrome"  xdt:Locator="Match(key)" xdt:Transform="Insert"/>
+                     <add key="env" value="stg2"  xdt:Locator="Match(key)" xdt:Transform="SetAttributes(value)"/>                    
+                  </appSettings> 
+							</configuration>
+						
+The process cannot access the file 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config.bak' because it is being used by another process.
+2020-04-09T21:19:38.9194648+05:30:test thread #0 error: TechTalk.SpecRun.Framework.SpecRunException: error in config transfrom (configFile: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config)
+<?xml version="1.0" encoding="utf-8"?>
+							<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+                <appSettings> 
+                     <add key="defaultBrowser" value="chrome"  xdt:Locator="Match(key)" xdt:Transform="Insert"/>
+                     <add key="env" value="stg2"  xdt:Locator="Match(key)" xdt:Transform="SetAttributes(value)"/>                    
+                  </appSettings> 
+							</configuration>
+						
+The process cannot access the file 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config.bak' because it is being used by another process. ---> System.IO.IOException: The process cannot access the file 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config.bak' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at TechTalk.SpecRun.Framework.DeploymentSteps.ConfigFileTransformationStep.Backup(String configFilePath, DeploymentContext deploymentContext)
+   at TechTalk.SpecRun.Framework.DeploymentSteps.ConfigFileTransformationStep.Apply(DeploymentContext deploymentContext)
+   --- End of inner exception stack trace ---
+   at TechTalk.SpecRun.Framework.DeploymentSteps.ConfigFileTransformationStep.Apply(DeploymentContext deploymentContext)
+   at TechTalk.SpecRun.Framework.DeploymentSteps.DeploymentContext.Apply(DeploymentTransformationSteps steps, ITestRunTracerBroker tracerBroker)
+   at TechTalk.SpecRun.Framework.TestThread.GetDeploymentContext(IAssemblyReference testAssembly, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.InitializeTestThreadExecutor(IAssemblyReference testAssembly, ExecutionModelSettings executionModelSettings, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.GetThreadExecutor(IAssemblyReference testAssembly, ExecutionModelSettings executionModelSettings, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.GetThreadExecutorForTestItem(TestItem testItem)
+   at TechTalk.SpecRun.Framework.TestThread.RunNonEmptyTestSuite(CancellationToken cancellationToken, TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.TestThread.Run(ITestExecutionManager executionManagerForRun, CancellationToken cancellationToken)
+   at TechTalk.SpecRun.Framework.AsyncTestThreadRunner.RunSync(TestExecutionManager executionManager, CancellationToken cancellationToken)
+2020-04-09T21:19:38.9856416+05:30:Thread #1: Creating test assembly executor for execution model AppDomain
+2020-04-09T21:19:38.9896523+05:30:Thread #1: Creating test assembly executor for execution model AppDomain
+2020-04-09T21:19:38.9921585+05:30:Thread #1: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-09T21:19:39.1064616+05:30:Thread#1: Test #5/0 is started on thread #1
+2020-04-09T21:19:39.3556237+05:30:Thread#1:T:-> Using app.config
+2020-04-09T21:19:39.5937582+05:30:Thread#1:T:[Begin Feature] - Login: Login Functionality Feature
+2020-04-09T21:19:39.5942596+05:30:Thread#1:T:Testing Environment: stg2
+2020-04-09T21:19:39.5942596+05:30:Thread#1:T:Browser: chrome
+2020-04-09T21:19:39.7256084+05:30:Thread#1:T:[BeforeScenario] - Start chrome
+2020-04-09T21:19:39.7777488+05:30:Thread#1:T:Scenario: UnSuccessful Login with InValid Credentials
+2020-04-09T21:19:41.9519354+05:30:Thread#1:T:userAgent = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+2020-04-09T21:19:41.9529376+05:30:Thread#1:T:Browser Name: chrome
+2020-04-09T21:19:41.9539407+05:30:Thread#1:T:Browser Version: 78.0.3904.108
+2020-04-09T21:19:41.9749967+05:30:Thread#1:B:Given I open the "Monoprice Web" website's login page
+2020-04-09T21:20:01.4548863+05:30:Thread#1:T:Browser navigating to https://stg2.monoprice.com
+2020-04-09T21:20:01.4649103+05:30:Thread#1:T:done: CommonSteps.GivenIOpenTheWebsite("Monoprice Web") (19.4s)
+2020-04-09T21:20:01.4679183+05:30:Thread#1:B:Then I Navigate to MyAccount Login Page
+2020-04-09T21:20:13.6208738+05:30:Thread#1:T:Navigated to Login Page Successfully
+2020-04-09T21:20:13.6218764+05:30:Thread#1:T:done: LoginPageSteps.ThenINavigateToMyAccountPage() (12.2s)
+2020-04-09T21:20:13.6243867+05:30:Thread#1:B:When I log in using Username as "jayakumat@unitedtechno.com" and Password "Welcome" on the login page
+2020-04-09T21:20:19.6714564+05:30:Thread#1:T:Logged in Successfully as User : jayakumat@unitedtechno.com
+2020-04-09T21:20:19.6734618+05:30:Thread#1:T:done: LoginPageSteps.WhenILogInUsingUsernameAsAndPasswordOnTheLoginPage("jayakumat@unitedt...", "Welcome") (6.0s)
+2020-04-09T21:20:19.6764693+05:30:Thread#1:B:Then I should not be logged in
+2020-04-09T21:20:19.7992417+05:30:Thread#1:T:Error: The e-mail address or password is incorrect. Please double check and try again.
+2020-04-09T21:20:19.8002452+05:30:Thread#1:T:Note: User ID and Password fields are case sensitive and 6 consecutive unsuccessful log-on attempts will result in the User ID being locked out. You would have to request for a forgot password assistance in order to reinstate the User ID
+2020-04-09T21:20:19.8660266+05:30:Thread#1:T:done: LoginPageSteps.ThenIShouldNotBeLoggedIn() (0.2s)
+2020-04-09T21:20:19.8849643+05:30:Thread#1:Scheduler: get next test for thread 1
+2020-04-09T21:20:19.8849643+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-09T21:20:19.8849643+05:30:Thread#1:Scheduler: enumerator for thread is at end
+2020-04-09T21:20:19.8849643+05:30:Thread#1:Scheduler: No more tests for thread
+2020-04-09T21:20:19.8884741+05:30:Thread#1:T:[AfterScenario] - Quit browser
+2020-04-09T21:20:24.4028948+05:30:Thread#1:T:[End Feature] - Login: Login Functionality Feature
+2020-04-09T21:20:24.4144250+05:30:Thread#1: Test #5/0 is finished on thread #1 as Succeeded within 45.3074621 seconds
+2020-04-09T21:20:24.4560343+05:30:test thread error: TechTalk.SpecRun.Framework.SpecRunException: At least one test thread aborted. ---> TechTalk.SpecRun.Framework.SpecRunException: error in config transfrom (configFile: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config)
+<?xml version="1.0" encoding="utf-8"?>
+							<configuration xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+                <appSettings> 
+                     <add key="defaultBrowser" value="chrome"  xdt:Locator="Match(key)" xdt:Transform="Insert"/>
+                     <add key="env" value="stg2"  xdt:Locator="Match(key)" xdt:Transform="SetAttributes(value)"/>                    
+                  </appSettings> 
+							</configuration>
+						
+The process cannot access the file 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config.bak' because it is being used by another process. ---> System.IO.IOException: The process cannot access the file 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll.config.bak' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at TechTalk.SpecRun.Framework.DeploymentSteps.ConfigFileTransformationStep.Backup(String configFilePath, DeploymentContext deploymentContext)
+   at TechTalk.SpecRun.Framework.DeploymentSteps.ConfigFileTransformationStep.Apply(DeploymentContext deploymentContext)
+   --- End of inner exception stack trace ---
+   at TechTalk.SpecRun.Framework.DeploymentSteps.ConfigFileTransformationStep.Apply(DeploymentContext deploymentContext)
+   at TechTalk.SpecRun.Framework.DeploymentSteps.DeploymentContext.Apply(DeploymentTransformationSteps steps, ITestRunTracerBroker tracerBroker)
+   at TechTalk.SpecRun.Framework.TestThread.GetDeploymentContext(IAssemblyReference testAssembly, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.InitializeTestThreadExecutor(IAssemblyReference testAssembly, ExecutionModelSettings executionModelSettings, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.GetThreadExecutor(IAssemblyReference testAssembly, ExecutionModelSettings executionModelSettings, String testTarget)
+   at TechTalk.SpecRun.Framework.TestThread.GetThreadExecutorForTestItem(TestItem testItem)
+   at TechTalk.SpecRun.Framework.TestThread.RunNonEmptyTestSuite(CancellationToken cancellationToken, TestThreadState testThreadState)
+   at TechTalk.SpecRun.Framework.TestThread.Run(ITestExecutionManager executionManagerForRun, CancellationToken cancellationToken)
+   at TechTalk.SpecRun.Framework.AsyncTestThreadRunner.RunSync(TestExecutionManager executionManager, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+2020-04-09T21:20:24.4560343+05:30:Trying to cancel thread
+2020-04-09T21:20:24.4560343+05:30:Thread cancelled
+2020-04-09T21:20:24.4560343+05:30:Trying to cancel thread
+2020-04-09T21:20:24.4560343+05:30:Thread cancelled
+2020-04-09T21:20:24.4670970+05:30:Thread#-1: Test #4/0 is started on thread #-1
+2020-04-09T21:20:24.4670970+05:30:Thread#-1: Test #4/0 is finished on thread #-1 as Skipped within 0 seconds
+2020-04-09T21:20:24.4675645+05:30:Thread#-1:Scheduler: get next test for thread -1
+2020-04-09T21:20:24.4675645+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-09T21:20:24.4675645+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-09T21:20:24.4760876+05:30;Thread#13;Info;test run finished
+2020-04-09T21:20:24.4765894+05:30;Thread#13;Info;publishing test results
+2020-04-09T21:20:24.5327716+05:30;Thread#13;Info;test results published
+2020-04-09T21:20:24.5352520+05:30;Thread#13;Info;generating reports
+2020-04-09T21:20:24.6736124+05:30;Thread#13;Info;Starting external report generation process
+2020-04-09T21:20:26.5767156+05:30;Thread#13;Info;Successfully generated reports.
+2020-04-09T21:20:26.5787213+05:30;Thread#13;Info;Successfully generated reports
+2020-04-09T21:20:26.5922565+05:30:Total: 2
+2020-04-09T21:20:26.5952645+05:30:Succeeded: 1
+2020-04-09T21:20:26.5962671+05:30:Ignored: 0
+2020-04-09T21:20:26.5972698+05:30:Pending: 0
+2020-04-09T21:20:26.5972698+05:30:Skipped: 1
+2020-04-09T21:20:26.5982729+05:30:Failed: 0
+2020-04-09T21:20:26.6017827+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-09T21:20:26.6017827+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-09T211938.html'
+========== End of log file ==========

@@ -1,0 +1,102 @@
+﻿2020-04-10T10:26:31.4229133+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-10T10:26:31.4229133+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.15 in Framework clr40 in x86 mode execution started
+2020-04-10T10:26:31.4229133+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-10T10:26:31.6159315+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-10T10:26:31.6169346+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults" (default)
+2020-04-10T10:26:31.6179381+05:30;VSTestExecutionThread;Info;Profile: MonoPriceWebBDD
+2020-04-10T10:26:31.6960585+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-10T102631.log
+2020-04-10T10:26:31.7065865+05:30;Thread#13;Info;Checking activation
+2020-04-10T10:26:31.8188860+05:30;Thread#13;Info;Activation check completed
+2020-04-10T10:26:31.8193869+05:30;Thread#13;Info;Starting test run
+2020-04-10T10:26:31.8324225+05:30;Thread#13;Info;Discovering target: Default
+2020-04-10T10:26:31.8329238+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-10T10:26:32.2099276+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-10T10:26:32.2114290+05:30:Test Suite Dump
+2020-04-10T10:26:32.2144370+05:30:#0: MonoPriceWebBDD/MonoPriceWebBDD - 
+2020-04-10T10:26:32.2144370+05:30:#1: Default - 
+2020-04-10T10:26:32.2144370+05:30:#2: MonoPriceWebBDD - 
+2020-04-10T10:26:32.2144370+05:30:#3: Login: Login Functionality Feature - 
+2020-04-10T10:26:32.2435161+05:30:#6: Place an Order, Online Portal - TestAssembly:MonoPriceWebBDD/Feature:Login%3a+Login+Functionality+Feature/Scenario:Place+an+Order%2c+Online+Portal
+2020-04-10T10:26:32.2435161+05:30:End: Test Suite Dump
+2020-04-10T10:26:32.2726272+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-04-10T10:26:32.2750978+05:30:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-04-10T10:26:32.2750978+05:30:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-04-10T10:26:32.2826556+05:30:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-10T10:26:32.2826556+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-04-10T10:26:32.2826556+05:30:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-04-10T10:26:32.2826556+05:30:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-04-10T10:26:32.2841574+05:30:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-04-10T10:26:32.2851605+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-10T10:26:32.2881689+05:30:Thread #0: creating new test thread executor for MonoPriceWebBDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-10T10:26:32.4770635+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-10T10:26:32.4820769+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-10T10:26:32.4835804+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-10T10:26:32.6439883+05:30:Thread#0: Test #6/0 is started on thread #0
+2020-04-10T10:26:32.8705896+05:30:Thread#0:T:-> Using app.config
+2020-04-10T10:26:33.1717503+05:30:Thread#0:T:[Begin Feature] - Login: Login Functionality Feature
+2020-04-10T10:26:33.1732561+05:30:Thread#0:T:Testing Environment: stg2
+2020-04-10T10:26:33.1737566+05:30:Thread#0:T:Browser: chrome
+2020-04-10T10:26:33.3341823+05:30:Thread#0:T:[BeforeScenario] - Start chrome
+2020-04-10T10:26:33.3868556+05:30:Thread#0:T:Scenario: Place an Order
+2020-04-10T10:26:36.0869121+05:30:Thread#0:T:userAgent = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+2020-04-10T10:26:36.0879148+05:30:Thread#0:T:Browser Name: chrome
+2020-04-10T10:26:36.0889175+05:30:Thread#0:T:Browser Version: 78.0.3904.108
+2020-04-10T10:26:36.1039570+05:30:Thread#0:B:Given I open the "Monoprice Web" website's login page
+2020-04-10T10:27:04.9441869+05:30:Thread#0:T:Browser navigating to https://stg2.monoprice.com
+2020-04-10T10:27:04.9682442+05:30:Thread#0:T:done: CommonSteps.GivenIOpenTheWebsite("Monoprice Web") (28.8s)
+2020-04-10T10:27:04.9722549+05:30:Thread#0:B:Then I Navigate to MyAccount Login Page
+2020-04-10T10:27:18.2533734+05:30:Thread#0:T:Navigated to Login Page Successfully
+2020-04-10T10:27:18.2674103+05:30:Thread#0:T:done: LoginPageSteps.ThenINavigateToMyAccountPage() (13.3s)
+2020-04-10T10:27:18.2714214+05:30:Thread#0:B:When I log in using Username as "jayakumart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-10T10:27:28.0663584+05:30:Thread#0:T:Logged in Successfully as User : jayakumart@unitedtechno.com
+2020-04-10T10:27:28.0703690+05:30:Thread#0:T:done: LoginPageSteps.WhenILogInUsingUsernameAsAndPasswordOnTheLoginPage("jayakumart@united...", "Welcome@88") (9.8s)
+2020-04-10T10:27:28.0723735+05:30:Thread#0:B:Then I Open any Product Page
+2020-04-10T10:27:28.1754272+05:30:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2020-04-10T10:27:28.1763952+05:30:Thread#0:T:        [Then(@"I Open any Product Page")]
+2020-04-10T10:27:28.1763952+05:30:Thread#0:T:        public void ThenIOpenAnyProductPage()
+2020-04-10T10:27:28.1773970+05:30:Thread#0:T:        {
+2020-04-10T10:27:28.1784028+05:30:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-04-10T10:27:28.1794054+05:30:Thread#0:T:        }
+2020-04-10T10:27:28.2004601+05:30:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2020-04-10T10:27:28.2014628+05:30:Thread#0:T:using System;
+2020-04-10T10:27:28.2024645+05:30:Thread#0:T:using TechTalk.SpecFlow;
+2020-04-10T10:27:28.2034672+05:30:Thread#0:T:namespace MyNamespace
+2020-04-10T10:27:28.2034672+05:30:Thread#0:T:{
+2020-04-10T10:27:28.2044699+05:30:Thread#0:T:    [Binding]
+2020-04-10T10:27:28.2054721+05:30:Thread#0:T:    public class StepDefinitions
+2020-04-10T10:27:28.2054721+05:30:Thread#0:T:    {
+2020-04-10T10:27:28.2064748+05:30:Thread#0:T:        [Then(@"I Open any Product Page")]
+2020-04-10T10:27:28.2064748+05:30:Thread#0:T:        public void ThenIOpenAnyProductPage()
+2020-04-10T10:27:28.2074779+05:30:Thread#0:T:        {
+2020-04-10T10:27:28.2094836+05:30:Thread#0:T:            ScenarioContext.Current.Pending();
+2020-04-10T10:27:28.2094836+05:30:Thread#0:T:        }
+2020-04-10T10:27:28.2104859+05:30:Thread#0:T:    }
+2020-04-10T10:27:28.2114881+05:30:Thread#0:T:}
+2020-04-10T10:27:28.2245596+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-04-10T10:27:28.2245596+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-10T10:27:28.2245596+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-10T10:27:28.2245596+05:30:Thread#0:Scheduler: No more tests for thread
+2020-04-10T10:27:28.2285356+05:30:Thread#0:T:[AfterScenario] - Quit browser
+2020-04-10T10:27:32.7757407+05:30:Thread#0:T:[End Feature] - Login: Login Functionality Feature
+2020-04-10T10:27:32.7967461+05:30:Thread#0: Test #6/0 is finished on thread #0 as Pending within 60.1517555 seconds
+2020-04-10T10:27:32.9232038+05:30:Trying to cancel thread
+2020-04-10T10:27:32.9232038+05:30:Thread cancelled
+2020-04-10T10:27:32.9362384+05:30:Thread#-1:Scheduler: get next test for thread -1
+2020-04-10T10:27:32.9362384+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-10T10:27:32.9362384+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-10T10:27:32.9412527+05:30;Thread#13;Info;test run finished
+2020-04-10T10:27:32.9412527+05:30;Thread#13;Info;publishing test results
+2020-04-10T10:27:33.0335002+05:30;Thread#13;Info;test results published
+2020-04-10T10:27:33.0335002+05:30;Thread#13;Info;generating reports
+2020-04-10T10:27:33.1737579+05:30;Thread#13;Info;Starting external report generation process
+2020-04-10T10:27:35.7893038+05:30;Thread#13;Info;Successfully generated reports.
+2020-04-10T10:27:35.7993323+05:30;Thread#13;Info;Successfully generated reports
+2020-04-10T10:27:35.8193843+05:30:Total: 1
+2020-04-10T10:27:35.8233945+05:30:Succeeded: 0
+2020-04-10T10:27:35.8253998+05:30:Ignored: 0
+2020-04-10T10:27:35.8253998+05:30:Pending: 1
+2020-04-10T10:27:35.8253998+05:30:Skipped: 0
+2020-04-10T10:27:35.8264029+05:30:Failed: 0
+2020-04-10T10:27:35.8514696+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-10T10:27:35.8534745+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-10T102631.html'
+========== End of log file ==========

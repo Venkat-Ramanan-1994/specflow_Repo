@@ -1,0 +1,94 @@
+﻿2020-04-09T21:02:53.0702216+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-09T21:02:53.0702216+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.15 in Framework clr40 in x86 mode execution started
+2020-04-09T21:02:53.0702216+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-09T21:02:53.2572179+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:02:53.2582210+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults" (default)
+2020-04-09T21:02:53.2587246+05:30;VSTestExecutionThread;Info;Profile: MonoPriceWebBDD
+2020-04-09T21:02:53.3093584+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-09T210253.log
+2020-04-09T21:02:53.3163748+05:30;Thread#13;Info;Checking activation
+2020-04-09T21:02:53.4201583+05:30;Thread#13;Info;Activation check completed
+2020-04-09T21:02:53.4201583+05:30;Thread#13;Info;Starting test run
+2020-04-09T21:02:53.4321881+05:30;Thread#13;Info;Discovering target: Default
+2020-04-09T21:02:53.4351961+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:02:53.7797990+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\MonoPriceWebBDD.dll
+2020-04-09T21:02:53.7818039+05:30:Test Suite Dump
+2020-04-09T21:02:53.7838093+05:30:#0: MonoPriceWebBDD/MonoPriceWebBDD - 
+2020-04-09T21:02:53.7838093+05:30:#1: Default - 
+2020-04-09T21:02:53.7838093+05:30:#2: MonoPriceWebBDD - 
+2020-04-09T21:02:53.7838093+05:30:#3: Login: Login Functionality Feature - 
+2020-04-09T21:02:53.8143919+05:30:#4: Successful Login with Valid Credentials, Online Portal - TestAssembly:MonoPriceWebBDD/Feature:Login%3a+Login+Functionality+Feature/Scenario:Successful+Login+with+Valid+Credentials%2c+Online+Portal
+2020-04-09T21:02:53.8143919+05:30:End: Test Suite Dump
+2020-04-09T21:02:53.8414639+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-04-09T21:02:53.8434706+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-09T21:02:53.8434706+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-09T21:02:53.8484826+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-09T21:02:53.8484826+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-09T21:02:53.8484826+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-04-09T21:02:53.8484826+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-09T21:02:53.8499874+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-09T21:02:53.8509901+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-09T21:02:53.8544972+05:30:Thread #0: creating new test thread executor for MonoPriceWebBDD, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-09T21:02:54.0525469+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-09T21:02:54.0565576+05:30:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-09T21:02:54.0595656+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-09T21:02:54.1832864+05:30:Thread#0: Test #4/0 is started on thread #0
+2020-04-09T21:02:54.4139001+05:30:Thread#0:T:-> Using app.config
+2020-04-09T21:02:54.6650698+05:30:Thread#0:T:[Begin Feature] - Login: Login Functionality Feature
+2020-04-09T21:02:54.6655693+05:30:Thread#0:T:Testing Environment: qa1
+2020-04-09T21:02:54.6655693+05:30:Thread#0:T:Browser: chrome
+2020-04-09T21:02:54.8305075+05:30:Thread#0:T:[BeforeScenario] - Start chrome
+2020-04-09T21:02:54.8856537+05:30:Thread#0:T:Scenario: Successful Login with Valid Credentials
+2020-04-09T21:02:57.0899149+05:30:Thread#0:T:userAgent = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+2020-04-09T21:02:57.0908851+05:30:Thread#0:T:Browser Name: chrome
+2020-04-09T21:02:57.0908851+05:30:Thread#0:T:Browser Version: 78.0.3904.108
+2020-04-09T21:02:57.1049220+05:30:Thread#0:B:Given I open the "Monoprice Web" website's login page
+2020-04-09T21:03:10.7756390+05:30:Thread#0:T:Browser navigating to https://qa1.monoprice.com
+2020-04-09T21:03:10.7911804+05:30:Thread#0:T:done: CommonSteps.GivenIOpenTheWebsite("Monoprice Web") (13.6s)
+2020-04-09T21:03:10.7987030+05:30:Thread#0:B:Then I Navigate to MyAccount Login Page
+2020-04-09T21:03:10.8593621+05:30:Thread#0:T:error: no such window: target window already closed
+2020-04-09T21:03:10.8603643+05:30:Thread#0:T:from unknown error: web view not found
+2020-04-09T21:03:10.8613670+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2020-04-09T21:03:10.8638741+05:30:Thread#0:B:When I log in using Username as "jayakmmart@unitedtechno.com" and Password "Welcome@88" on the login page
+2020-04-09T21:03:10.8688879+05:30:Thread#0:T:skipped because of previous errors
+2020-04-09T21:03:10.8698901+05:30:Thread#0:B:Then I should be logged in
+2020-04-09T21:03:10.8708928+05:30:Thread#0:T:skipped because of previous errors
+2020-04-09T21:03:10.8919483+05:30:Thread#0:Scheduler: get next test for thread 0
+2020-04-09T21:03:10.8919483+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-09T21:03:10.8919483+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-09T21:03:10.8919483+05:30:Thread#0:Scheduler: No more tests for thread
+2020-04-09T21:03:10.8974639+05:30:Thread#0:T:[AfterScenario] - Quit browser
+2020-04-09T21:03:10.9014741+05:30:Thread#0:T:error: no such window: target window already closed
+2020-04-09T21:03:10.9019763+05:30:Thread#0:T:from unknown error: web view not found
+2020-04-09T21:03:10.9029781+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2020-04-09T21:03:10.9425825+05:30:Thread#0:T:Screenshot error: OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+2020-04-09T21:03:10.9430839+05:30:Thread#0:T:from unknown error: web view not found
+2020-04-09T21:03:10.9440865+05:30:Thread#0:T:  (Session info: chrome=78.0.3904.108)
+2020-04-09T21:03:10.9450896+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+2020-04-09T21:03:10.9455905+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2020-04-09T21:03:10.9465941+05:30:Thread#0:T:   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+2020-04-09T21:03:10.9470950+05:30:Thread#0:T:   at MonoPriceWebBDD.pageFactory.BaseClass.TakeScreenshot(IWebDriver driver, Boolean wholePage) in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\pageFactory\BaseClass.cs:line 130
+2020-04-09T21:03:10.9491039+05:30:Thread#0:T:   at MonoPriceWebBDD.stepDefinitions.Hooks.Hooks.AfterScenario() in C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\stepDefinitions\util\Hooks.cs:line 151
+2020-04-09T21:03:11.1000024+05:30:Thread#0:T:Screenshot: file:///C:/Users/UTIS LAPTOP 52/source/repos/MonoPriceWebBDD/MonoPriceWebBDD/bin/Debug/logs/2020-04-09-0903-11.png
+2020-04-09T21:03:15.5438960+05:30:Thread#0:T:[End Feature] - Login: Login Functionality Feature
+2020-04-09T21:03:15.5559271+05:30:Thread#0: Test #4/0 is finished on thread #0 as Failed within 21.371638 seconds
+2020-04-09T21:03:15.6090698+05:30:Trying to cancel thread
+2020-04-09T21:03:15.6090698+05:30:Thread cancelled
+2020-04-09T21:03:15.6201000+05:30:Thread#-1:Scheduler: get next test for thread -1
+2020-04-09T21:03:15.6201000+05:30:Thread#:Scheduler: at the end of normal test queue
+2020-04-09T21:03:15.6201000+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-09T21:03:15.6226067+05:30;Thread#13;Info;test run finished
+2020-04-09T21:03:15.6231071+05:30;Thread#13;Info;publishing test results
+2020-04-09T21:03:15.6777524+05:30;Thread#13;Info;test results published
+2020-04-09T21:03:15.6782542+05:30;Thread#13;Info;generating reports
+2020-04-09T21:03:15.8204439+05:30;Thread#13;Info;Starting external report generation process
+2020-04-09T21:03:17.7124928+05:30;Thread#13;Info;Successfully generated reports.
+2020-04-09T21:03:17.7144982+05:30;Thread#13;Info;Successfully generated reports
+2020-04-09T21:03:17.7280337+05:30:Total: 1
+2020-04-09T21:03:17.7300391+05:30:Succeeded: 0
+2020-04-09T21:03:17.7310422+05:30:Ignored: 0
+2020-04-09T21:03:17.7325457+05:30:Pending: 0
+2020-04-09T21:03:17.7325457+05:30:Skipped: 0
+2020-04-09T21:03:17.7345511+05:30:Failed: 1
+2020-04-09T21:03:17.7521022+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-09T21:03:17.7531030+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\UTIS LAPTOP 52\source\repos\MonoPriceWebBDD\MonoPriceWebBDD\bin\Debug\testresults\MonoPriceWebBDD_MonoPriceWebBDD_2020-04-09T210253.html'
+========== End of log file ==========
